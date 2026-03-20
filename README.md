@@ -79,4 +79,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3039-apply-operations-to-make-string-empty](https://github.com/Jyotshna2007/LeetCode/tree/main/3039-apply-operations-to-make-string-empty/) | Medium |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2181-merge-nodes-in-between-zeros](https://github.com/Jyotshna2007/LeetCode/tree/main/2181-merge-nodes-in-between-zeros/) | Medium |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2181-merge-nodes-in-between-zeros](https://github.com/Jyotshna2007/LeetCode/tree/main/2181-merge-nodes-in-between-zeros/) | Medium |
 <!---LeetCode Topics End-->
