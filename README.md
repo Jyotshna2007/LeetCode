@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1980-find-unique-binary-string](https://github.com/Jyotshna2007/LeetCode/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2540-minimum-common-value](https://github.com/Jyotshna2007/LeetCode/tree/main/2540-minimum-common-value/) | Easy |
 | [2644-find-the-maximum-divisibility-score](https://github.com/Jyotshna2007/LeetCode/tree/main/2644-find-the-maximum-divisibility-score/) | Easy |
+| [2906-construct-product-matrix](https://github.com/Jyotshna2007/LeetCode/tree/main/2906-construct-product-matrix/) | Medium |
 | [3039-apply-operations-to-make-string-empty](https://github.com/Jyotshna2007/LeetCode/tree/main/3039-apply-operations-to-make-string-empty/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -42,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Jyotshna2007/LeetCode/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Jyotshna2007/LeetCode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Jyotshna2007/LeetCode/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
+| [2906-construct-product-matrix](https://github.com/Jyotshna2007/LeetCode/tree/main/2906-construct-product-matrix/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -93,4 +95,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2181-merge-nodes-in-between-zeros](https://github.com/Jyotshna2007/LeetCode/tree/main/2181-merge-nodes-in-between-zeros/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2906-construct-product-matrix](https://github.com/Jyotshna2007/LeetCode/tree/main/2906-construct-product-matrix/) | Medium |
 <!---LeetCode Topics End-->
