@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2540-minimum-common-value](https://github.com/Jyotshna2007/LeetCode/tree/main/2540-minimum-common-value/) | Easy |
 | [2644-find-the-maximum-divisibility-score](https://github.com/Jyotshna2007/LeetCode/tree/main/2644-find-the-maximum-divisibility-score/) | Easy |
 | [2906-construct-product-matrix](https://github.com/Jyotshna2007/LeetCode/tree/main/2906-construct-product-matrix/) | Medium |
+| [2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Jyotshna2007/LeetCode/tree/main/2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros/) | Medium |
 | [3039-apply-operations-to-make-string-empty](https://github.com/Jyotshna2007/LeetCode/tree/main/3039-apply-operations-to-make-string-empty/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -99,4 +100,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2906-construct-product-matrix](https://github.com/Jyotshna2007/LeetCode/tree/main/2906-construct-product-matrix/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Jyotshna2007/LeetCode/tree/main/2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros/) | Medium |
 <!---LeetCode Topics End-->
