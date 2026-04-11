@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Jyotshna2007/LeetCode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3039-apply-operations-to-make-string-empty](https://github.com/Jyotshna2007/LeetCode/tree/main/3039-apply-operations-to-make-string-empty/) | Medium |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Jyotshna2007/LeetCode/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
+| [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Jyotshna2007/LeetCode/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -75,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Jyotshna2007/LeetCode/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3039-apply-operations-to-make-string-empty](https://github.com/Jyotshna2007/LeetCode/tree/main/3039-apply-operations-to-make-string-empty/) | Medium |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Jyotshna2007/LeetCode/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
+| [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Jyotshna2007/LeetCode/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
