@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0033-search-in-rotated-sorted-array](https://github.com/Jyotshna2007/LeetCode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0048-rotate-image](https://github.com/Jyotshna2007/LeetCode/tree/main/0048-rotate-image/) | Medium |
 | [0049-group-anagrams](https://github.com/Jyotshna2007/LeetCode/tree/main/0049-group-anagrams/) | Medium |
+| [0056-merge-intervals](https://github.com/Jyotshna2007/LeetCode/tree/main/0056-merge-intervals/) | Medium |
 | [0075-sort-colors](https://github.com/Jyotshna2007/LeetCode/tree/main/0075-sort-colors/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/Jyotshna2007/LeetCode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0806-number-of-lines-to-write-string](https://github.com/Jyotshna2007/LeetCode/tree/main/0806-number-of-lines-to-write-string/) | Easy |
@@ -47,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/Jyotshna2007/LeetCode/tree/main/0049-group-anagrams/) | Medium |
+| [0056-merge-intervals](https://github.com/Jyotshna2007/LeetCode/tree/main/0056-merge-intervals/) | Medium |
 | [0075-sort-colors](https://github.com/Jyotshna2007/LeetCode/tree/main/0075-sort-colors/) | Medium |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Jyotshna2007/LeetCode/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3039-apply-operations-to-make-string-empty](https://github.com/Jyotshna2007/LeetCode/tree/main/3039-apply-operations-to-make-string-empty/) | Medium |
