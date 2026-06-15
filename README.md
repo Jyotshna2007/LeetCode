@@ -51,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/Jyotshna2007/LeetCode/tree/main/0075-sort-colors/) | Medium |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Jyotshna2007/LeetCode/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Jyotshna2007/LeetCode/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2540-minimum-common-value](https://github.com/Jyotshna2007/LeetCode/tree/main/2540-minimum-common-value/) | Easy |
 ## Sorting
@@ -156,6 +157,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Jyotshna2007/LeetCode/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Jyotshna2007/LeetCode/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2181-merge-nodes-in-between-zeros](https://github.com/Jyotshna2007/LeetCode/tree/main/2181-merge-nodes-in-between-zeros/) | Medium |
 ## Simulation
