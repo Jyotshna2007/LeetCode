@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0806-number-of-lines-to-write-string](https://github.com/Jyotshna2007/LeetCode/tree/main/0806-number-of-lines-to-write-string/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Jyotshna2007/LeetCode/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Jyotshna2007/LeetCode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
+| [1732-find-the-highest-altitude](https://github.com/Jyotshna2007/LeetCode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Jyotshna2007/LeetCode/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Jyotshna2007/LeetCode/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/Jyotshna2007/LeetCode/tree/main/1980-find-unique-binary-string/) | Medium |
@@ -173,6 +174,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1732-find-the-highest-altitude](https://github.com/Jyotshna2007/LeetCode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [2559-count-vowel-strings-in-ranges](https://github.com/Jyotshna2007/LeetCode/tree/main/2559-count-vowel-strings-in-ranges/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/Jyotshna2007/LeetCode/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2906-construct-product-matrix](https://github.com/Jyotshna2007/LeetCode/tree/main/2906-construct-product-matrix/) | Medium |
