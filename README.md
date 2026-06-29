@@ -34,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1833-maximum-ice-cream-bars](https://github.com/Jyotshna2007/LeetCode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Jyotshna2007/LeetCode/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Jyotshna2007/LeetCode/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Jyotshna2007/LeetCode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/Jyotshna2007/LeetCode/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Jyotshna2007/LeetCode/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2540-minimum-common-value](https://github.com/Jyotshna2007/LeetCode/tree/main/2540-minimum-common-value/) | Easy |
@@ -94,6 +95,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Jyotshna2007/LeetCode/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Jyotshna2007/LeetCode/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Jyotshna2007/LeetCode/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Jyotshna2007/LeetCode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/Jyotshna2007/LeetCode/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2129-capitalize-the-title](https://github.com/Jyotshna2007/LeetCode/tree/main/2129-capitalize-the-title/) | Easy |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Jyotshna2007/LeetCode/tree/main/2309-greatest-english-letter-in-upper-and-lower-case/) | Easy |
