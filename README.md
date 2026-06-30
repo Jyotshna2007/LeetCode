@@ -92,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0520-detect-capital](https://github.com/Jyotshna2007/LeetCode/tree/main/0520-detect-capital/) | Easy |
 | [0796-rotate-string](https://github.com/Jyotshna2007/LeetCode/tree/main/0796-rotate-string/) | Easy |
 | [0806-number-of-lines-to-write-string](https://github.com/Jyotshna2007/LeetCode/tree/main/0806-number-of-lines-to-write-string/) | Easy |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Jyotshna2007/LeetCode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Jyotshna2007/LeetCode/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Jyotshna2007/LeetCode/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Jyotshna2007/LeetCode/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
@@ -116,6 +117,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Jyotshna2007/LeetCode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Jyotshna2007/LeetCode/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -125,6 +127,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0205-isomorphic-strings](https://github.com/Jyotshna2007/LeetCode/tree/main/0205-isomorphic-strings/) | Easy |
 | [0290-word-pattern](https://github.com/Jyotshna2007/LeetCode/tree/main/0290-word-pattern/) | Easy |
 | [0383-ransom-note](https://github.com/Jyotshna2007/LeetCode/tree/main/0383-ransom-note/) | Easy |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Jyotshna2007/LeetCode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/Jyotshna2007/LeetCode/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Jyotshna2007/LeetCode/tree/main/2309-greatest-english-letter-in-upper-and-lower-case/) | Easy |
 | [2540-minimum-common-value](https://github.com/Jyotshna2007/LeetCode/tree/main/2540-minimum-common-value/) | Easy |
