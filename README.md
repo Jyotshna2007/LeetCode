@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Jyotshna2007/LeetCode/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0806-number-of-lines-to-write-string](https://github.com/Jyotshna2007/LeetCode/tree/main/0806-number-of-lines-to-write-string/) | Easy |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Jyotshna2007/LeetCode/tree/main/1018-binary-prefix-divisible-by-5/) | Easy |
+| [1288-remove-covered-intervals](https://github.com/Jyotshna2007/LeetCode/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Jyotshna2007/LeetCode/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Jyotshna2007/LeetCode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/Jyotshna2007/LeetCode/tree/main/1732-find-the-highest-altitude/) | Easy |
@@ -69,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0056-merge-intervals](https://github.com/Jyotshna2007/LeetCode/tree/main/0056-merge-intervals/) | Medium |
 | [0075-sort-colors](https://github.com/Jyotshna2007/LeetCode/tree/main/0075-sort-colors/) | Medium |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Jyotshna2007/LeetCode/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
+| [1288-remove-covered-intervals](https://github.com/Jyotshna2007/LeetCode/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/Jyotshna2007/LeetCode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Jyotshna2007/LeetCode/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [2733-neither-minimum-nor-maximum](https://github.com/Jyotshna2007/LeetCode/tree/main/2733-neither-minimum-nor-maximum/) | Easy |
