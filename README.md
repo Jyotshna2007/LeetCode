@@ -155,6 +155,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Jyotshna2007/LeetCode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Jyotshna2007/LeetCode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Jyotshna2007/LeetCode/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Jyotshna2007/LeetCode/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 | [3783-mirror-distance-of-an-integer](https://github.com/Jyotshna2007/LeetCode/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 | [3932-count-k-th-roots-in-a-range](https://github.com/Jyotshna2007/LeetCode/tree/main/3932-count-k-th-roots-in-a-range/) | Medium |
 ## Stack
