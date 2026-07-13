@@ -100,6 +100,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0290-word-pattern](https://github.com/Jyotshna2007/LeetCode/tree/main/0290-word-pattern/) | Easy |
 | [0383-ransom-note](https://github.com/Jyotshna2007/LeetCode/tree/main/0383-ransom-note/) | Easy |
 | [0520-detect-capital](https://github.com/Jyotshna2007/LeetCode/tree/main/0520-detect-capital/) | Easy |
+| [0657-robot-return-to-origin](https://github.com/Jyotshna2007/LeetCode/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0796-rotate-string](https://github.com/Jyotshna2007/LeetCode/tree/main/0796-rotate-string/) | Easy |
 | [0806-number-of-lines-to-write-string](https://github.com/Jyotshna2007/LeetCode/tree/main/0806-number-of-lines-to-write-string/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Jyotshna2007/LeetCode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
@@ -194,6 +195,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0657-robot-return-to-origin](https://github.com/Jyotshna2007/LeetCode/tree/main/0657-robot-return-to-origin/) | Easy |
 | [2181-merge-nodes-in-between-zeros](https://github.com/Jyotshna2007/LeetCode/tree/main/2181-merge-nodes-in-between-zeros/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Jyotshna2007/LeetCode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/Jyotshna2007/LeetCode/tree/main/3612-process-string-with-special-operations-i/) | Medium |
