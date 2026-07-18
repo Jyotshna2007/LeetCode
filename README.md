@@ -165,6 +165,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/Jyotshna2007/LeetCode/tree/main/0048-rotate-image/) | Medium |
+| [1103-distribute-candies-to-people](https://github.com/Jyotshna2007/LeetCode/tree/main/1103-distribute-candies-to-people/) | Easy |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Jyotshna2007/LeetCode/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Jyotshna2007/LeetCode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Jyotshna2007/LeetCode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
@@ -204,6 +205,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/Jyotshna2007/LeetCode/tree/main/0054-spiral-matrix/) | Medium |
 | [0657-robot-return-to-origin](https://github.com/Jyotshna2007/LeetCode/tree/main/0657-robot-return-to-origin/) | Easy |
+| [1103-distribute-candies-to-people](https://github.com/Jyotshna2007/LeetCode/tree/main/1103-distribute-candies-to-people/) | Easy |
 | [1706-where-will-the-ball-fall](https://github.com/Jyotshna2007/LeetCode/tree/main/1706-where-will-the-ball-fall/) | Medium |
 | [2181-merge-nodes-in-between-zeros](https://github.com/Jyotshna2007/LeetCode/tree/main/2181-merge-nodes-in-between-zeros/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Jyotshna2007/LeetCode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
