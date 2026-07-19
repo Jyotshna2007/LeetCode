@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0190-reverse-bits](https://github.com/Jyotshna2007/LeetCode/tree/main/0190-reverse-bits/) | Easy |
 | [0476-number-complement](https://github.com/Jyotshna2007/LeetCode/tree/main/0476-number-complement/) | Easy |
+| [0784-letter-case-permutation](https://github.com/Jyotshna2007/LeetCode/tree/main/0784-letter-case-permutation/) | Medium |
 | [1009-complement-of-base-10-integer](https://github.com/Jyotshna2007/LeetCode/tree/main/1009-complement-of-base-10-integer/) | Easy |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Jyotshna2007/LeetCode/tree/main/1018-binary-prefix-divisible-by-5/) | Easy |
 ## Array
@@ -107,6 +108,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0383-ransom-note](https://github.com/Jyotshna2007/LeetCode/tree/main/0383-ransom-note/) | Easy |
 | [0520-detect-capital](https://github.com/Jyotshna2007/LeetCode/tree/main/0520-detect-capital/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/Jyotshna2007/LeetCode/tree/main/0657-robot-return-to-origin/) | Easy |
+| [0784-letter-case-permutation](https://github.com/Jyotshna2007/LeetCode/tree/main/0784-letter-case-permutation/) | Medium |
 | [0796-rotate-string](https://github.com/Jyotshna2007/LeetCode/tree/main/0796-rotate-string/) | Easy |
 | [0806-number-of-lines-to-write-string](https://github.com/Jyotshna2007/LeetCode/tree/main/0806-number-of-lines-to-write-string/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Jyotshna2007/LeetCode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
@@ -163,6 +165,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Jyotshna2007/LeetCode/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0784-letter-case-permutation](https://github.com/Jyotshna2007/LeetCode/tree/main/0784-letter-case-permutation/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/Jyotshna2007/LeetCode/tree/main/1980-find-unique-binary-string/) | Medium |
 ## Math
 | Problem Name | Difficulty |
