@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0078-subsets](https://github.com/Jyotshna2007/LeetCode/tree/main/0078-subsets/) | Medium |
 | [0190-reverse-bits](https://github.com/Jyotshna2007/LeetCode/tree/main/0190-reverse-bits/) | Easy |
 | [0476-number-complement](https://github.com/Jyotshna2007/LeetCode/tree/main/0476-number-complement/) | Easy |
 | [0784-letter-case-permutation](https://github.com/Jyotshna2007/LeetCode/tree/main/0784-letter-case-permutation/) | Medium |
@@ -28,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0056-merge-intervals](https://github.com/Jyotshna2007/LeetCode/tree/main/0056-merge-intervals/) | Medium |
 | [0057-insert-interval](https://github.com/Jyotshna2007/LeetCode/tree/main/0057-insert-interval/) | Medium |
 | [0075-sort-colors](https://github.com/Jyotshna2007/LeetCode/tree/main/0075-sort-colors/) | Medium |
+| [0078-subsets](https://github.com/Jyotshna2007/LeetCode/tree/main/0078-subsets/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/Jyotshna2007/LeetCode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Jyotshna2007/LeetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Jyotshna2007/LeetCode/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
@@ -169,6 +171,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Jyotshna2007/LeetCode/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0046-permutations](https://github.com/Jyotshna2007/LeetCode/tree/main/0046-permutations/) | Medium |
+| [0078-subsets](https://github.com/Jyotshna2007/LeetCode/tree/main/0078-subsets/) | Medium |
 | [0784-letter-case-permutation](https://github.com/Jyotshna2007/LeetCode/tree/main/0784-letter-case-permutation/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/Jyotshna2007/LeetCode/tree/main/1980-find-unique-binary-string/) | Medium |
 ## Math
