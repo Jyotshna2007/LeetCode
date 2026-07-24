@@ -54,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Jyotshna2007/LeetCode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Jyotshna2007/LeetCode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/Jyotshna2007/LeetCode/tree/main/1980-find-unique-binary-string/) | Medium |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Jyotshna2007/LeetCode/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Jyotshna2007/LeetCode/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2540-minimum-common-value](https://github.com/Jyotshna2007/LeetCode/tree/main/2540-minimum-common-value/) | Easy |
 | [2559-count-vowel-strings-in-ranges](https://github.com/Jyotshna2007/LeetCode/tree/main/2559-count-vowel-strings-in-ranges/) | Medium |
@@ -256,6 +257,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Jyotshna2007/LeetCode/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/Jyotshna2007/LeetCode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Jyotshna2007/LeetCode/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Jyotshna2007/LeetCode/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Jyotshna2007/LeetCode/tree/main/2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros/) | Medium |
 | [3689-maximum-total-subarray-value-i](https://github.com/Jyotshna2007/LeetCode/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 ## String Matching
