@@ -115,6 +115,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0020-valid-parentheses](https://github.com/Jyotshna2007/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/Jyotshna2007/LeetCode/tree/main/0022-generate-parentheses/) | Medium |
 | [0049-group-anagrams](https://github.com/Jyotshna2007/LeetCode/tree/main/0049-group-anagrams/) | Medium |
+| [0131-palindrome-partitioning](https://github.com/Jyotshna2007/LeetCode/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0205-isomorphic-strings](https://github.com/Jyotshna2007/LeetCode/tree/main/0205-isomorphic-strings/) | Easy |
 | [0290-word-pattern](https://github.com/Jyotshna2007/LeetCode/tree/main/0290-word-pattern/) | Easy |
 | [0383-ransom-note](https://github.com/Jyotshna2007/LeetCode/tree/main/0383-ransom-note/) | Easy |
@@ -146,6 +147,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0005-longest-palindromic-substring](https://github.com/Jyotshna2007/LeetCode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0022-generate-parentheses](https://github.com/Jyotshna2007/LeetCode/tree/main/0022-generate-parentheses/) | Medium |
 | [0053-maximum-subarray](https://github.com/Jyotshna2007/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
+| [0131-palindrome-partitioning](https://github.com/Jyotshna2007/LeetCode/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0526-beautiful-arrangement](https://github.com/Jyotshna2007/LeetCode/tree/main/0526-beautiful-arrangement/) | Medium |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Jyotshna2007/LeetCode/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Jyotshna2007/LeetCode/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
@@ -184,6 +186,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0047-permutations-ii](https://github.com/Jyotshna2007/LeetCode/tree/main/0047-permutations-ii/) | Medium |
 | [0078-subsets](https://github.com/Jyotshna2007/LeetCode/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/Jyotshna2007/LeetCode/tree/main/0090-subsets-ii/) | Medium |
+| [0131-palindrome-partitioning](https://github.com/Jyotshna2007/LeetCode/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0526-beautiful-arrangement](https://github.com/Jyotshna2007/LeetCode/tree/main/0526-beautiful-arrangement/) | Medium |
 | [0784-letter-case-permutation](https://github.com/Jyotshna2007/LeetCode/tree/main/0784-letter-case-permutation/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/Jyotshna2007/LeetCode/tree/main/1980-find-unique-binary-string/) | Medium |
