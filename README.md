@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0784-letter-case-permutation](https://github.com/Jyotshna2007/LeetCode/tree/main/0784-letter-case-permutation/) | Medium |
 | [1009-complement-of-base-10-integer](https://github.com/Jyotshna2007/LeetCode/tree/main/1009-complement-of-base-10-integer/) | Easy |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Jyotshna2007/LeetCode/tree/main/1018-binary-prefix-divisible-by-5/) | Easy |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Jyotshna2007/LeetCode/tree/main/3211-generate-binary-strings-without-adjacent-zeros/) | Medium |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -140,6 +141,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Jyotshna2007/LeetCode/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Jyotshna2007/LeetCode/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Jyotshna2007/LeetCode/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Jyotshna2007/LeetCode/tree/main/3211-generate-binary-strings-without-adjacent-zeros/) | Medium |
 | [3612-process-string-with-special-operations-i](https://github.com/Jyotshna2007/LeetCode/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/Jyotshna2007/LeetCode/tree/main/3838-weighted-word-mapping/) | Easy |
 | [3931-check-adjacent-digit-differences](https://github.com/Jyotshna2007/LeetCode/tree/main/3931-check-adjacent-digit-differences/) | Easy |
@@ -192,6 +194,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0526-beautiful-arrangement](https://github.com/Jyotshna2007/LeetCode/tree/main/0526-beautiful-arrangement/) | Medium |
 | [0784-letter-case-permutation](https://github.com/Jyotshna2007/LeetCode/tree/main/0784-letter-case-permutation/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/Jyotshna2007/LeetCode/tree/main/1980-find-unique-binary-string/) | Medium |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Jyotshna2007/LeetCode/tree/main/3211-generate-binary-strings-without-adjacent-zeros/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
