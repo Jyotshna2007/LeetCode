@@ -96,6 +96,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2733-neither-minimum-nor-maximum](https://github.com/Jyotshna2007/LeetCode/tree/main/2733-neither-minimum-nor-maximum/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Jyotshna2007/LeetCode/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3039-apply-operations-to-make-string-empty](https://github.com/Jyotshna2007/LeetCode/tree/main/3039-apply-operations-to-make-string-empty/) | Medium |
+| [3536-maximum-product-of-two-digits](https://github.com/Jyotshna2007/LeetCode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -200,6 +201,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Jyotshna2007/LeetCode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Jyotshna2007/LeetCode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Jyotshna2007/LeetCode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
+| [3536-maximum-product-of-two-digits](https://github.com/Jyotshna2007/LeetCode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Jyotshna2007/LeetCode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Jyotshna2007/LeetCode/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Jyotshna2007/LeetCode/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
