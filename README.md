@@ -39,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0209-minimum-size-subarray-sum](https://github.com/Jyotshna2007/LeetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Jyotshna2007/LeetCode/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0526-beautiful-arrangement](https://github.com/Jyotshna2007/LeetCode/tree/main/0526-beautiful-arrangement/) | Medium |
+| [0628-maximum-product-of-three-numbers](https://github.com/Jyotshna2007/LeetCode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0806-number-of-lines-to-write-string](https://github.com/Jyotshna2007/LeetCode/tree/main/0806-number-of-lines-to-write-string/) | Easy |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Jyotshna2007/LeetCode/tree/main/1018-binary-prefix-divisible-by-5/) | Easy |
 | [1260-shift-2d-grid](https://github.com/Jyotshna2007/LeetCode/tree/main/1260-shift-2d-grid/) | Easy |
@@ -90,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0056-merge-intervals](https://github.com/Jyotshna2007/LeetCode/tree/main/0056-merge-intervals/) | Medium |
 | [0075-sort-colors](https://github.com/Jyotshna2007/LeetCode/tree/main/0075-sort-colors/) | Medium |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Jyotshna2007/LeetCode/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
+| [0628-maximum-product-of-three-numbers](https://github.com/Jyotshna2007/LeetCode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/Jyotshna2007/LeetCode/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/Jyotshna2007/LeetCode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/Jyotshna2007/LeetCode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
@@ -199,6 +201,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/Jyotshna2007/LeetCode/tree/main/0048-rotate-image/) | Medium |
+| [0628-maximum-product-of-three-numbers](https://github.com/Jyotshna2007/LeetCode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1103-distribute-candies-to-people](https://github.com/Jyotshna2007/LeetCode/tree/main/1103-distribute-candies-to-people/) | Easy |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Jyotshna2007/LeetCode/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Jyotshna2007/LeetCode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
