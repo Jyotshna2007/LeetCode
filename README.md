@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0136-single-number](https://github.com/Jyotshna2007/LeetCode/tree/main/0136-single-number/) | Easy |
 | [0190-reverse-bits](https://github.com/Jyotshna2007/LeetCode/tree/main/0190-reverse-bits/) | Easy |
 | [0201-bitwise-and-of-numbers-range](https://github.com/Jyotshna2007/LeetCode/tree/main/0201-bitwise-and-of-numbers-range/) | Medium |
+| [0371-sum-of-two-integers](https://github.com/Jyotshna2007/LeetCode/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0476-number-complement](https://github.com/Jyotshna2007/LeetCode/tree/main/0476-number-complement/) | Easy |
 | [0526-beautiful-arrangement](https://github.com/Jyotshna2007/LeetCode/tree/main/0526-beautiful-arrangement/) | Medium |
 | [0784-letter-case-permutation](https://github.com/Jyotshna2007/LeetCode/tree/main/0784-letter-case-permutation/) | Medium |
@@ -216,6 +217,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/Jyotshna2007/LeetCode/tree/main/0048-rotate-image/) | Medium |
+| [0371-sum-of-two-integers](https://github.com/Jyotshna2007/LeetCode/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/Jyotshna2007/LeetCode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0877-stone-game](https://github.com/Jyotshna2007/LeetCode/tree/main/0877-stone-game/) | Medium |
 | [1103-distribute-candies-to-people](https://github.com/Jyotshna2007/LeetCode/tree/main/1103-distribute-candies-to-people/) | Easy |
