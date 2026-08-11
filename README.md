@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0136-single-number](https://github.com/Jyotshna2007/LeetCode/tree/main/0136-single-number/) | Easy |
 | [0190-reverse-bits](https://github.com/Jyotshna2007/LeetCode/tree/main/0190-reverse-bits/) | Easy |
 | [0201-bitwise-and-of-numbers-range](https://github.com/Jyotshna2007/LeetCode/tree/main/0201-bitwise-and-of-numbers-range/) | Medium |
+| [0260-single-number-iii](https://github.com/Jyotshna2007/LeetCode/tree/main/0260-single-number-iii/) | Medium |
 | [0338-counting-bits](https://github.com/Jyotshna2007/LeetCode/tree/main/0338-counting-bits/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/Jyotshna2007/LeetCode/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0476-number-complement](https://github.com/Jyotshna2007/LeetCode/tree/main/0476-number-complement/) | Easy |
@@ -44,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0128-longest-consecutive-sequence](https://github.com/Jyotshna2007/LeetCode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0136-single-number](https://github.com/Jyotshna2007/LeetCode/tree/main/0136-single-number/) | Easy |
 | [0209-minimum-size-subarray-sum](https://github.com/Jyotshna2007/LeetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0260-single-number-iii](https://github.com/Jyotshna2007/LeetCode/tree/main/0260-single-number-iii/) | Medium |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Jyotshna2007/LeetCode/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0526-beautiful-arrangement](https://github.com/Jyotshna2007/LeetCode/tree/main/0526-beautiful-arrangement/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/Jyotshna2007/LeetCode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
