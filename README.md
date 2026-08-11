@@ -69,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1980-find-unique-binary-string](https://github.com/Jyotshna2007/LeetCode/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Jyotshna2007/LeetCode/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Jyotshna2007/LeetCode/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/Jyotshna2007/LeetCode/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
 | [2540-minimum-common-value](https://github.com/Jyotshna2007/LeetCode/tree/main/2540-minimum-common-value/) | Easy |
 | [2559-count-vowel-strings-in-ranges](https://github.com/Jyotshna2007/LeetCode/tree/main/2559-count-vowel-strings-in-ranges/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/Jyotshna2007/LeetCode/tree/main/2574-left-and-right-sum-differences/) | Easy |
@@ -197,6 +198,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1763-longest-nice-substring](https://github.com/Jyotshna2007/LeetCode/tree/main/1763-longest-nice-substring/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/Jyotshna2007/LeetCode/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Jyotshna2007/LeetCode/tree/main/2309-greatest-english-letter-in-upper-and-lower-case/) | Easy |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/Jyotshna2007/LeetCode/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
 | [2540-minimum-common-value](https://github.com/Jyotshna2007/LeetCode/tree/main/2540-minimum-common-value/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Jyotshna2007/LeetCode/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Jyotshna2007/LeetCode/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
@@ -230,6 +232,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1103-distribute-candies-to-people](https://github.com/Jyotshna2007/LeetCode/tree/main/1103-distribute-candies-to-people/) | Easy |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Jyotshna2007/LeetCode/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Jyotshna2007/LeetCode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/Jyotshna2007/LeetCode/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Jyotshna2007/LeetCode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Jyotshna2007/LeetCode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Jyotshna2007/LeetCode/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
@@ -317,6 +320,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Jyotshna2007/LeetCode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/Jyotshna2007/LeetCode/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Jyotshna2007/LeetCode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 ## Bitmask
 | Problem Name | Difficulty |
@@ -326,4 +330,28 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0877-stone-game](https://github.com/Jyotshna2007/LeetCode/tree/main/0877-stone-game/) | Medium |
+## Prime Factorization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/Jyotshna2007/LeetCode/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
+## Euclidean Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/Jyotshna2007/LeetCode/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
+## Primality Test
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/Jyotshna2007/LeetCode/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
+## Greatest Common Divisor
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/Jyotshna2007/LeetCode/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
+## Sieve Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/Jyotshna2007/LeetCode/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
+## Prime Number Sieve
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/Jyotshna2007/LeetCode/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
 <!---LeetCode Topics End-->
