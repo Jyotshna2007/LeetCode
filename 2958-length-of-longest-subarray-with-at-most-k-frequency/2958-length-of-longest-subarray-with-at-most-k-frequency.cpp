@@ -7,7 +7,7 @@ public:
         for (int end = 0; end < nums.size(); end++) {
             s[nums[end]]++;
             while (s[nums[end]] > k) {
-                s[nums[end]]--;
+                s[nums[start]]--;
                 start++;
             }
             ans = max(ans, end - start + 1);
