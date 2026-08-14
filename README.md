@@ -160,6 +160,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2559-count-vowel-strings-in-ranges](https://github.com/Jyotshna2007/LeetCode/tree/main/2559-count-vowel-strings-in-ranges/) | Medium |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Jyotshna2007/LeetCode/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Jyotshna2007/LeetCode/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Jyotshna2007/LeetCode/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Jyotshna2007/LeetCode/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Jyotshna2007/LeetCode/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Jyotshna2007/LeetCode/tree/main/3211-generate-binary-strings-without-adjacent-zeros/) | Medium |
@@ -186,6 +187,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1763-longest-nice-substring](https://github.com/Jyotshna2007/LeetCode/tree/main/1763-longest-nice-substring/) | Easy |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Jyotshna2007/LeetCode/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Jyotshna2007/LeetCode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Jyotshna2007/LeetCode/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -206,6 +208,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Jyotshna2007/LeetCode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Jyotshna2007/LeetCode/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3039-apply-operations-to-make-string-empty](https://github.com/Jyotshna2007/LeetCode/tree/main/3039-apply-operations-to-make-string-empty/) | Medium |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Jyotshna2007/LeetCode/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Jyotshna2007/LeetCode/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Jyotshna2007/LeetCode/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3731-find-missing-elements](https://github.com/Jyotshna2007/LeetCode/tree/main/3731-find-missing-elements/) | Easy |
