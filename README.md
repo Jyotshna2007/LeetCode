@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1018-binary-prefix-divisible-by-5](https://github.com/Jyotshna2007/LeetCode/tree/main/1018-binary-prefix-divisible-by-5/) | Easy |
 | [1763-longest-nice-substring](https://github.com/Jyotshna2007/LeetCode/tree/main/1763-longest-nice-substring/) | Easy |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Jyotshna2007/LeetCode/tree/main/3211-generate-binary-strings-without-adjacent-zeros/) | Medium |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Jyotshna2007/LeetCode/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -84,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3039-apply-operations-to-make-string-empty](https://github.com/Jyotshna2007/LeetCode/tree/main/3039-apply-operations-to-make-string-empty/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Jyotshna2007/LeetCode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3689-maximum-total-subarray-value-i](https://github.com/Jyotshna2007/LeetCode/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Jyotshna2007/LeetCode/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 | [3731-find-missing-elements](https://github.com/Jyotshna2007/LeetCode/tree/main/3731-find-missing-elements/) | Easy |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Jyotshna2007/LeetCode/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Jyotshna2007/LeetCode/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
