@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0784-letter-case-permutation](https://github.com/Jyotshna2007/LeetCode/tree/main/0784-letter-case-permutation/) | Medium |
 | [1009-complement-of-base-10-integer](https://github.com/Jyotshna2007/LeetCode/tree/main/1009-complement-of-base-10-integer/) | Easy |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Jyotshna2007/LeetCode/tree/main/1018-binary-prefix-divisible-by-5/) | Easy |
+| [1720-decode-xored-array](https://github.com/Jyotshna2007/LeetCode/tree/main/1720-decode-xored-array/) | Easy |
 | [1763-longest-nice-substring](https://github.com/Jyotshna2007/LeetCode/tree/main/1763-longest-nice-substring/) | Easy |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Jyotshna2007/LeetCode/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Jyotshna2007/LeetCode/tree/main/3211-generate-binary-strings-without-adjacent-zeros/) | Medium |
@@ -65,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Jyotshna2007/LeetCode/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Jyotshna2007/LeetCode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1706-where-will-the-ball-fall](https://github.com/Jyotshna2007/LeetCode/tree/main/1706-where-will-the-ball-fall/) | Medium |
+| [1720-decode-xored-array](https://github.com/Jyotshna2007/LeetCode/tree/main/1720-decode-xored-array/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/Jyotshna2007/LeetCode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Jyotshna2007/LeetCode/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/Jyotshna2007/LeetCode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
