@@ -248,6 +248,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/Jyotshna2007/LeetCode/tree/main/0048-rotate-image/) | Medium |
+| [0069-sqrtx](https://github.com/Jyotshna2007/LeetCode/tree/main/0069-sqrtx/) | Easy |
 | [0202-happy-number](https://github.com/Jyotshna2007/LeetCode/tree/main/0202-happy-number/) | Easy |
 | [0231-power-of-two](https://github.com/Jyotshna2007/LeetCode/tree/main/0231-power-of-two/) | Easy |
 | [0263-ugly-number](https://github.com/Jyotshna2007/LeetCode/tree/main/0263-ugly-number/) | Easy |
@@ -279,6 +280,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Jyotshna2007/LeetCode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
+| [0069-sqrtx](https://github.com/Jyotshna2007/LeetCode/tree/main/0069-sqrtx/) | Easy |
 | [0209-minimum-size-subarray-sum](https://github.com/Jyotshna2007/LeetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0268-missing-number](https://github.com/Jyotshna2007/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Jyotshna2007/LeetCode/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
@@ -402,4 +404,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0231-power-of-two](https://github.com/Jyotshna2007/LeetCode/tree/main/0231-power-of-two/) | Easy |
+## Newton's Method
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0069-sqrtx](https://github.com/Jyotshna2007/LeetCode/tree/main/0069-sqrtx/) | Easy |
 <!---LeetCode Topics End-->
