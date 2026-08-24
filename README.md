@@ -52,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0090-subsets-ii](https://github.com/Jyotshna2007/LeetCode/tree/main/0090-subsets-ii/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/Jyotshna2007/LeetCode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0136-single-number](https://github.com/Jyotshna2007/LeetCode/tree/main/0136-single-number/) | Easy |
+| [0204-count-primes](https://github.com/Jyotshna2007/LeetCode/tree/main/0204-count-primes/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Jyotshna2007/LeetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0260-single-number-iii](https://github.com/Jyotshna2007/LeetCode/tree/main/0260-single-number-iii/) | Medium |
 | [0268-missing-number](https://github.com/Jyotshna2007/LeetCode/tree/main/0268-missing-number/) | Easy |
@@ -257,6 +258,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0048-rotate-image](https://github.com/Jyotshna2007/LeetCode/tree/main/0048-rotate-image/) | Medium |
 | [0069-sqrtx](https://github.com/Jyotshna2007/LeetCode/tree/main/0069-sqrtx/) | Easy |
 | [0202-happy-number](https://github.com/Jyotshna2007/LeetCode/tree/main/0202-happy-number/) | Easy |
+| [0204-count-primes](https://github.com/Jyotshna2007/LeetCode/tree/main/0204-count-primes/) | Medium |
 | [0231-power-of-two](https://github.com/Jyotshna2007/LeetCode/tree/main/0231-power-of-two/) | Easy |
 | [0263-ugly-number](https://github.com/Jyotshna2007/LeetCode/tree/main/0263-ugly-number/) | Easy |
 | [0268-missing-number](https://github.com/Jyotshna2007/LeetCode/tree/main/0268-missing-number/) | Easy |
@@ -347,6 +349,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0204-count-primes](https://github.com/Jyotshna2007/LeetCode/tree/main/0204-count-primes/) | Medium |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Jyotshna2007/LeetCode/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Jyotshna2007/LeetCode/tree/main/2309-greatest-english-letter-in-upper-and-lower-case/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Jyotshna2007/LeetCode/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
@@ -362,6 +365,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0204-count-primes](https://github.com/Jyotshna2007/LeetCode/tree/main/0204-count-primes/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Jyotshna2007/LeetCode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/Jyotshna2007/LeetCode/tree/main/2507-smallest-value-after-replacing-with-sum-of-prime-factors/) | Medium |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Jyotshna2007/LeetCode/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
@@ -389,6 +393,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Primality Test
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0204-count-primes](https://github.com/Jyotshna2007/LeetCode/tree/main/0204-count-primes/) | Medium |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/Jyotshna2007/LeetCode/tree/main/2507-smallest-value-after-replacing-with-sum-of-prime-factors/) | Medium |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Jyotshna2007/LeetCode/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
 ## Greatest Common Divisor
@@ -400,11 +405,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sieve Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0204-count-primes](https://github.com/Jyotshna2007/LeetCode/tree/main/0204-count-primes/) | Medium |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/Jyotshna2007/LeetCode/tree/main/2507-smallest-value-after-replacing-with-sum-of-prime-factors/) | Medium |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Jyotshna2007/LeetCode/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
 ## Prime Number Sieve
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0204-count-primes](https://github.com/Jyotshna2007/LeetCode/tree/main/0204-count-primes/) | Medium |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/Jyotshna2007/LeetCode/tree/main/2507-smallest-value-after-replacing-with-sum-of-prime-factors/) | Medium |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Jyotshna2007/LeetCode/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
 ## Combinatorics
