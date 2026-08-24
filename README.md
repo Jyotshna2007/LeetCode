@@ -84,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2540-minimum-common-value](https://github.com/Jyotshna2007/LeetCode/tree/main/2540-minimum-common-value/) | Easy |
 | [2559-count-vowel-strings-in-ranges](https://github.com/Jyotshna2007/LeetCode/tree/main/2559-count-vowel-strings-in-ranges/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/Jyotshna2007/LeetCode/tree/main/2574-left-and-right-sum-differences/) | Easy |
+| [2614-prime-in-diagonal](https://github.com/Jyotshna2007/LeetCode/tree/main/2614-prime-in-diagonal/) | Easy |
 | [2644-find-the-maximum-divisibility-score](https://github.com/Jyotshna2007/LeetCode/tree/main/2644-find-the-maximum-divisibility-score/) | Easy |
 | [2733-neither-minimum-nor-maximum](https://github.com/Jyotshna2007/LeetCode/tree/main/2733-neither-minimum-nor-maximum/) | Easy |
 | [2855-minimum-right-shifts-to-sort-the-array](https://github.com/Jyotshna2007/LeetCode/tree/main/2855-minimum-right-shifts-to-sort-the-array/) | Easy |
@@ -144,6 +145,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Jyotshna2007/LeetCode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1706-where-will-the-ball-fall](https://github.com/Jyotshna2007/LeetCode/tree/main/1706-where-will-the-ball-fall/) | Medium |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Jyotshna2007/LeetCode/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
+| [2614-prime-in-diagonal](https://github.com/Jyotshna2007/LeetCode/tree/main/2614-prime-in-diagonal/) | Easy |
 | [2906-construct-product-matrix](https://github.com/Jyotshna2007/LeetCode/tree/main/2906-construct-product-matrix/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Jyotshna2007/LeetCode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 ## String
@@ -266,6 +268,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Jyotshna2007/LeetCode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/Jyotshna2007/LeetCode/tree/main/2507-smallest-value-after-replacing-with-sum-of-prime-factors/) | Medium |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Jyotshna2007/LeetCode/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
+| [2614-prime-in-diagonal](https://github.com/Jyotshna2007/LeetCode/tree/main/2614-prime-in-diagonal/) | Easy |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Jyotshna2007/LeetCode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Jyotshna2007/LeetCode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Jyotshna2007/LeetCode/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
@@ -360,6 +363,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Jyotshna2007/LeetCode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/Jyotshna2007/LeetCode/tree/main/2507-smallest-value-after-replacing-with-sum-of-prime-factors/) | Medium |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Jyotshna2007/LeetCode/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
+| [2614-prime-in-diagonal](https://github.com/Jyotshna2007/LeetCode/tree/main/2614-prime-in-diagonal/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Jyotshna2007/LeetCode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 ## Bitmask
 | Problem Name | Difficulty |
