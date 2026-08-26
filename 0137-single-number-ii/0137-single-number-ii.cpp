@@ -1,16 +1,11 @@
 class Solution {
 public:
     int singleNumber(vector<int>& nums) {
-        map<int,int>f;
-        for(int num:nums){
-            f[num]++;
+        int ones = 0, twos = 0;
+        for (int i = 0; i < nums.size(); i++) {
+            ones = (ones ^ nums[i]) & ~twos;
+            twos = (twos ^ nums[i]) & ~ones;
         }
-        int res;
-        for(int num:nums){
-            if(f[num]==1){
-                res=num;
-            }
-        }
-        return res;
+        return ones;
     }
 };
