@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0078-subsets](https://github.com/Jyotshna2007/LeetCode/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/Jyotshna2007/LeetCode/tree/main/0090-subsets-ii/) | Medium |
 | [0136-single-number](https://github.com/Jyotshna2007/LeetCode/tree/main/0136-single-number/) | Easy |
+| [0137-single-number-ii](https://github.com/Jyotshna2007/LeetCode/tree/main/0137-single-number-ii/) | Medium |
 | [0190-reverse-bits](https://github.com/Jyotshna2007/LeetCode/tree/main/0190-reverse-bits/) | Easy |
 | [0191-number-of-1-bits](https://github.com/Jyotshna2007/LeetCode/tree/main/0191-number-of-1-bits/) | Easy |
 | [0201-bitwise-and-of-numbers-range](https://github.com/Jyotshna2007/LeetCode/tree/main/0201-bitwise-and-of-numbers-range/) | Medium |
@@ -54,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0119-pascals-triangle-ii](https://github.com/Jyotshna2007/LeetCode/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/Jyotshna2007/LeetCode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0136-single-number](https://github.com/Jyotshna2007/LeetCode/tree/main/0136-single-number/) | Easy |
+| [0137-single-number-ii](https://github.com/Jyotshna2007/LeetCode/tree/main/0137-single-number-ii/) | Medium |
 | [0204-count-primes](https://github.com/Jyotshna2007/LeetCode/tree/main/0204-count-primes/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Jyotshna2007/LeetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0260-single-number-iii](https://github.com/Jyotshna2007/LeetCode/tree/main/0260-single-number-iii/) | Medium |
