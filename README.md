@@ -48,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0054-spiral-matrix](https://github.com/Jyotshna2007/LeetCode/tree/main/0054-spiral-matrix/) | Medium |
 | [0056-merge-intervals](https://github.com/Jyotshna2007/LeetCode/tree/main/0056-merge-intervals/) | Medium |
 | [0057-insert-interval](https://github.com/Jyotshna2007/LeetCode/tree/main/0057-insert-interval/) | Medium |
+| [0064-minimum-path-sum](https://github.com/Jyotshna2007/LeetCode/tree/main/0064-minimum-path-sum/) | Medium |
 | [0075-sort-colors](https://github.com/Jyotshna2007/LeetCode/tree/main/0075-sort-colors/) | Medium |
 | [0078-subsets](https://github.com/Jyotshna2007/LeetCode/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/Jyotshna2007/LeetCode/tree/main/0090-subsets-ii/) | Medium |
@@ -147,6 +148,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/Jyotshna2007/LeetCode/tree/main/0048-rotate-image/) | Medium |
 | [0054-spiral-matrix](https://github.com/Jyotshna2007/LeetCode/tree/main/0054-spiral-matrix/) | Medium |
+| [0064-minimum-path-sum](https://github.com/Jyotshna2007/LeetCode/tree/main/0064-minimum-path-sum/) | Medium |
 | [0867-transpose-matrix](https://github.com/Jyotshna2007/LeetCode/tree/main/0867-transpose-matrix/) | Easy |
 | [1260-shift-2d-grid](https://github.com/Jyotshna2007/LeetCode/tree/main/1260-shift-2d-grid/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Jyotshna2007/LeetCode/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
@@ -201,6 +203,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0005-longest-palindromic-substring](https://github.com/Jyotshna2007/LeetCode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0022-generate-parentheses](https://github.com/Jyotshna2007/LeetCode/tree/main/0022-generate-parentheses/) | Medium |
 | [0053-maximum-subarray](https://github.com/Jyotshna2007/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
+| [0064-minimum-path-sum](https://github.com/Jyotshna2007/LeetCode/tree/main/0064-minimum-path-sum/) | Medium |
 | [0070-climbing-stairs](https://github.com/Jyotshna2007/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
 | [0118-pascals-triangle](https://github.com/Jyotshna2007/LeetCode/tree/main/0118-pascals-triangle/) | Easy |
 | [0119-pascals-triangle-ii](https://github.com/Jyotshna2007/LeetCode/tree/main/0119-pascals-triangle-ii/) | Easy |
