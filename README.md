@@ -115,6 +115,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Jyotshna2007/LeetCode/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/Jyotshna2007/LeetCode/tree/main/3838-weighted-word-mapping/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/Jyotshna2007/LeetCode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
+| [3876-construct-uniform-parity-array-ii](https://github.com/Jyotshna2007/LeetCode/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 | [3925-concatenate-array-with-reverse](https://github.com/Jyotshna2007/LeetCode/tree/main/3925-concatenate-array-with-reverse/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -311,6 +312,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Jyotshna2007/LeetCode/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 | [3783-mirror-distance-of-an-integer](https://github.com/Jyotshna2007/LeetCode/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/Jyotshna2007/LeetCode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
+| [3876-construct-uniform-parity-array-ii](https://github.com/Jyotshna2007/LeetCode/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 | [3932-count-k-th-roots-in-a-range](https://github.com/Jyotshna2007/LeetCode/tree/main/3932-count-k-th-roots-in-a-range/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
