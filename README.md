@@ -48,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0054-spiral-matrix](https://github.com/Jyotshna2007/LeetCode/tree/main/0054-spiral-matrix/) | Medium |
 | [0056-merge-intervals](https://github.com/Jyotshna2007/LeetCode/tree/main/0056-merge-intervals/) | Medium |
 | [0057-insert-interval](https://github.com/Jyotshna2007/LeetCode/tree/main/0057-insert-interval/) | Medium |
+| [0059-spiral-matrix-ii](https://github.com/Jyotshna2007/LeetCode/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0063-unique-paths-ii](https://github.com/Jyotshna2007/LeetCode/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Jyotshna2007/LeetCode/tree/main/0064-minimum-path-sum/) | Medium |
 | [0075-sort-colors](https://github.com/Jyotshna2007/LeetCode/tree/main/0075-sort-colors/) | Medium |
@@ -154,6 +155,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/Jyotshna2007/LeetCode/tree/main/0048-rotate-image/) | Medium |
 | [0054-spiral-matrix](https://github.com/Jyotshna2007/LeetCode/tree/main/0054-spiral-matrix/) | Medium |
+| [0059-spiral-matrix-ii](https://github.com/Jyotshna2007/LeetCode/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0063-unique-paths-ii](https://github.com/Jyotshna2007/LeetCode/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Jyotshna2007/LeetCode/tree/main/0064-minimum-path-sum/) | Medium |
 | [0867-transpose-matrix](https://github.com/Jyotshna2007/LeetCode/tree/main/0867-transpose-matrix/) | Easy |
@@ -347,6 +349,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/Jyotshna2007/LeetCode/tree/main/0054-spiral-matrix/) | Medium |
+| [0059-spiral-matrix-ii](https://github.com/Jyotshna2007/LeetCode/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0657-robot-return-to-origin](https://github.com/Jyotshna2007/LeetCode/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0867-transpose-matrix](https://github.com/Jyotshna2007/LeetCode/tree/main/0867-transpose-matrix/) | Easy |
 | [1103-distribute-candies-to-people](https://github.com/Jyotshna2007/LeetCode/tree/main/1103-distribute-candies-to-people/) | Easy |
