@@ -183,6 +183,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0383-ransom-note](https://github.com/Jyotshna2007/LeetCode/tree/main/0383-ransom-note/) | Easy |
 | [0520-detect-capital](https://github.com/Jyotshna2007/LeetCode/tree/main/0520-detect-capital/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/Jyotshna2007/LeetCode/tree/main/0657-robot-return-to-origin/) | Easy |
+| [0678-valid-parenthesis-string](https://github.com/Jyotshna2007/LeetCode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0784-letter-case-permutation](https://github.com/Jyotshna2007/LeetCode/tree/main/0784-letter-case-permutation/) | Medium |
 | [0796-rotate-string](https://github.com/Jyotshna2007/LeetCode/tree/main/0796-rotate-string/) | Easy |
 | [0806-number-of-lines-to-write-string](https://github.com/Jyotshna2007/LeetCode/tree/main/0806-number-of-lines-to-write-string/) | Easy |
@@ -228,6 +229,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0198-house-robber](https://github.com/Jyotshna2007/LeetCode/tree/main/0198-house-robber/) | Medium |
 | [0338-counting-bits](https://github.com/Jyotshna2007/LeetCode/tree/main/0338-counting-bits/) | Easy |
 | [0526-beautiful-arrangement](https://github.com/Jyotshna2007/LeetCode/tree/main/0526-beautiful-arrangement/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/Jyotshna2007/LeetCode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0877-stone-game](https://github.com/Jyotshna2007/LeetCode/tree/main/0877-stone-game/) | Medium |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Jyotshna2007/LeetCode/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Jyotshna2007/LeetCode/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
@@ -333,6 +335,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Jyotshna2007/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
+| [0678-valid-parenthesis-string](https://github.com/Jyotshna2007/LeetCode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Jyotshna2007/LeetCode/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Jyotshna2007/LeetCode/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Jyotshna2007/LeetCode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
@@ -391,6 +394,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Jyotshna2007/LeetCode/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/Jyotshna2007/LeetCode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/Jyotshna2007/LeetCode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Jyotshna2007/LeetCode/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Jyotshna2007/LeetCode/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
@@ -511,6 +515,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Jyotshna2007/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/Jyotshna2007/LeetCode/tree/main/0022-generate-parentheses/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/Jyotshna2007/LeetCode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Jyotshna2007/LeetCode/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Jyotshna2007/LeetCode/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Jyotshna2007/LeetCode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
