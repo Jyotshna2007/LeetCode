@@ -80,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1720-decode-xored-array](https://github.com/Jyotshna2007/LeetCode/tree/main/1720-decode-xored-array/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/Jyotshna2007/LeetCode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Jyotshna2007/LeetCode/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Jyotshna2007/LeetCode/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/Jyotshna2007/LeetCode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Jyotshna2007/LeetCode/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Jyotshna2007/LeetCode/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
@@ -312,6 +313,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1071-greatest-common-divisor-of-strings](https://github.com/Jyotshna2007/LeetCode/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1103-distribute-candies-to-people](https://github.com/Jyotshna2007/LeetCode/tree/main/1103-distribute-candies-to-people/) | Easy |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Jyotshna2007/LeetCode/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Jyotshna2007/LeetCode/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Jyotshna2007/LeetCode/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Jyotshna2007/LeetCode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/Jyotshna2007/LeetCode/tree/main/2507-smallest-value-after-replacing-with-sum-of-prime-factors/) | Medium |
@@ -376,6 +378,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1103-distribute-candies-to-people](https://github.com/Jyotshna2007/LeetCode/tree/main/1103-distribute-candies-to-people/) | Easy |
 | [1260-shift-2d-grid](https://github.com/Jyotshna2007/LeetCode/tree/main/1260-shift-2d-grid/) | Easy |
 | [1706-where-will-the-ball-fall](https://github.com/Jyotshna2007/LeetCode/tree/main/1706-where-will-the-ball-fall/) | Medium |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Jyotshna2007/LeetCode/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [2181-merge-nodes-in-between-zeros](https://github.com/Jyotshna2007/LeetCode/tree/main/2181-merge-nodes-in-between-zeros/) | Medium |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/Jyotshna2007/LeetCode/tree/main/2507-smallest-value-after-replacing-with-sum-of-prime-factors/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Jyotshna2007/LeetCode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
@@ -502,6 +505,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0231-power-of-two](https://github.com/Jyotshna2007/LeetCode/tree/main/0231-power-of-two/) | Easy |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Jyotshna2007/LeetCode/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [3483-unique-3-digit-even-numbers](https://github.com/Jyotshna2007/LeetCode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Newton's Method
 | Problem Name | Difficulty |
@@ -526,4 +530,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Jyotshna2007/LeetCode/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Jyotshna2007/LeetCode/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Jyotshna2007/LeetCode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Jyotshna2007/LeetCode/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 <!---LeetCode Topics End-->
