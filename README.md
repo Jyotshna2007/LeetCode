@@ -181,6 +181,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/Jyotshna2007/LeetCode/tree/main/0049-group-anagrams/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/Jyotshna2007/LeetCode/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0205-isomorphic-strings](https://github.com/Jyotshna2007/LeetCode/tree/main/0205-isomorphic-strings/) | Easy |
+| [0241-different-ways-to-add-parentheses](https://github.com/Jyotshna2007/LeetCode/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
 | [0290-word-pattern](https://github.com/Jyotshna2007/LeetCode/tree/main/0290-word-pattern/) | Easy |
 | [0383-ransom-note](https://github.com/Jyotshna2007/LeetCode/tree/main/0383-ransom-note/) | Easy |
 | [0520-detect-capital](https://github.com/Jyotshna2007/LeetCode/tree/main/0520-detect-capital/) | Easy |
@@ -232,6 +233,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0119-pascals-triangle-ii](https://github.com/Jyotshna2007/LeetCode/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0131-palindrome-partitioning](https://github.com/Jyotshna2007/LeetCode/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0198-house-robber](https://github.com/Jyotshna2007/LeetCode/tree/main/0198-house-robber/) | Medium |
+| [0241-different-ways-to-add-parentheses](https://github.com/Jyotshna2007/LeetCode/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
 | [0338-counting-bits](https://github.com/Jyotshna2007/LeetCode/tree/main/0338-counting-bits/) | Easy |
 | [0526-beautiful-arrangement](https://github.com/Jyotshna2007/LeetCode/tree/main/0526-beautiful-arrangement/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/Jyotshna2007/LeetCode/tree/main/0678-valid-parenthesis-string/) | Medium |
@@ -305,6 +307,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0202-happy-number](https://github.com/Jyotshna2007/LeetCode/tree/main/0202-happy-number/) | Easy |
 | [0204-count-primes](https://github.com/Jyotshna2007/LeetCode/tree/main/0204-count-primes/) | Medium |
 | [0231-power-of-two](https://github.com/Jyotshna2007/LeetCode/tree/main/0231-power-of-two/) | Easy |
+| [0241-different-ways-to-add-parentheses](https://github.com/Jyotshna2007/LeetCode/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
 | [0263-ugly-number](https://github.com/Jyotshna2007/LeetCode/tree/main/0263-ugly-number/) | Easy |
 | [0268-missing-number](https://github.com/Jyotshna2007/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/Jyotshna2007/LeetCode/tree/main/0371-sum-of-two-integers/) | Medium |
@@ -508,6 +511,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0231-power-of-two](https://github.com/Jyotshna2007/LeetCode/tree/main/0231-power-of-two/) | Easy |
+| [0241-different-ways-to-add-parentheses](https://github.com/Jyotshna2007/LeetCode/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Jyotshna2007/LeetCode/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [3483-unique-3-digit-even-numbers](https://github.com/Jyotshna2007/LeetCode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Newton's Method
@@ -518,6 +522,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/Jyotshna2007/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
+| [0241-different-ways-to-add-parentheses](https://github.com/Jyotshna2007/LeetCode/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -527,6 +532,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Jyotshna2007/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/Jyotshna2007/LeetCode/tree/main/0022-generate-parentheses/) | Medium |
+| [0241-different-ways-to-add-parentheses](https://github.com/Jyotshna2007/LeetCode/tree/main/0241-different-ways-to-add-parentheses/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/Jyotshna2007/LeetCode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0856-score-of-parentheses](https://github.com/Jyotshna2007/LeetCode/tree/main/0856-score-of-parentheses/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Jyotshna2007/LeetCode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
