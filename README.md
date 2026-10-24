@@ -215,6 +215,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1980-find-unique-binary-string](https://github.com/Jyotshna2007/LeetCode/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2129-capitalize-the-title](https://github.com/Jyotshna2007/LeetCode/tree/main/2129-capitalize-the-title/) | Easy |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Jyotshna2007/LeetCode/tree/main/2309-greatest-english-letter-in-upper-and-lower-case/) | Easy |
+| [2409-count-days-spent-together](https://github.com/Jyotshna2007/LeetCode/tree/main/2409-count-days-spent-together/) | Easy |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Jyotshna2007/LeetCode/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2559-count-vowel-strings-in-ranges](https://github.com/Jyotshna2007/LeetCode/tree/main/2559-count-vowel-strings-in-ranges/) | Medium |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Jyotshna2007/LeetCode/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
@@ -332,6 +333,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Jyotshna2007/LeetCode/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Jyotshna2007/LeetCode/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Jyotshna2007/LeetCode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [2409-count-days-spent-together](https://github.com/Jyotshna2007/LeetCode/tree/main/2409-count-days-spent-together/) | Easy |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/Jyotshna2007/LeetCode/tree/main/2507-smallest-value-after-replacing-with-sum-of-prime-factors/) | Medium |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Jyotshna2007/LeetCode/tree/main/2521-distinct-prime-factors-of-product-of-array/) | Medium |
 | [2523-closest-prime-numbers-in-range](https://github.com/Jyotshna2007/LeetCode/tree/main/2523-closest-prime-numbers-in-range/) | Medium |
