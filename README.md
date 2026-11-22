@@ -215,6 +215,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Jyotshna2007/LeetCode/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Jyotshna2007/LeetCode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/Jyotshna2007/LeetCode/tree/main/1980-find-unique-binary-string/) | Medium |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/Jyotshna2007/LeetCode/tree/main/2124-check-if-all-as-appears-before-all-bs/) | Easy |
 | [2129-capitalize-the-title](https://github.com/Jyotshna2007/LeetCode/tree/main/2129-capitalize-the-title/) | Easy |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Jyotshna2007/LeetCode/tree/main/2309-greatest-english-letter-in-upper-and-lower-case/) | Easy |
 | [2409-count-days-spent-together](https://github.com/Jyotshna2007/LeetCode/tree/main/2409-count-days-spent-together/) | Easy |
